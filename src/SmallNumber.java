@@ -3,7 +3,7 @@ import java.util.Scanner;
 /* Java program to find the smallest and 
 second smallest elements of an array of user input */
 
-public class SmallNumber { 
+public class SmallNumber {
 
 	public static void little(int arr[]) { 
         int small1; 
